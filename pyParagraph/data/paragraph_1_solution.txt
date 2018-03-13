@@ -1,0 +1,6 @@
+Pragraph stats
+----------------------------------------
+approx word count = 130
+approx sentence count = 5
+approx letter count (per word) =6.407692307692308
+average sentence length = 26.6

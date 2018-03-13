@@ -1,0 +1,7 @@
+financial office
+----------------------------------------
+total months = 41
+total revenue = 18971412
+average revenue change =-6758.975
+greatest increase in revenue =Aug-14(-1779747)
+greatest decrease in revenue =Feb-16(1837235)
